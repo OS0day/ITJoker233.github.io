@@ -18,8 +18,5 @@
                 <h3>字体：<a href="https://cdn.jsdelivr.net/gh/OS0day/MyBlogThemeChicCDN@latest/CDN/js/">https://cdn.jsdelivr.net/gh/OS0day/MyBlogThemeChicCDN@latest/CDN/fonts/</a></h3>
             </div>
         </div>
-       
-    </div>
-    </div>
 </body>
 </html>
